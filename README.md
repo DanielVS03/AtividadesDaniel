@@ -1,5 +1,5 @@
 # AtividadesDaniel
-Atividades do Daniel
+<body>
 <h3>Aluno: Daniel Vieira Silva<h3>
          <h3>Introdução a Construção de paginas WEB<h3>
          <h3><b>Atividade do dia 28/02 à 04/03:</b></h3>
@@ -11,4 +11,5 @@ Atividades do Daniel
          <h3><b>Atividade do dia 17/03:</b><h3>
          <h3><A HREF="Cinema.html">Aula 05 - Formatação de Elementos HTML</A></h3>
          <h3><b>Atividade do dia 24/03:</b><h3>
-         <h3><A HREF="Evoluçãodastecnologiasderedescomputadores.html">Aula 06 - Listas e citações<
+         <h3><A HREF="Evoluçãodastecnologiasderedescomputadores.html">Aula 06 - Listas e citações
+</body>

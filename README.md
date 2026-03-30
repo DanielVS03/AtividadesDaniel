@@ -2,8 +2,8 @@
 Atividades do Daniel
 <h3>Aluno: Daniel Vieira Silva<h3>
          <h3>Introdução a Construção de paginas WEB<h3>
-          <h3><b>Atividade do dia 28/02 à 04/03:</b></h3>
-        <A HREF="Palmeiras.html">Aula 02 - Minha primeira página web</A></h3>
+         <h3><b>Atividade do dia 28/02 à 04/03:</b></h3>
+         <h3><A HREF="Palmeiras.html">Aula 02 - Minha primeira página web</A></h3>
          <h3><b>Atividade do dia 03/03:</b><h3>
          <h3><A HREF="F1.html">Aula 03 - Links e Imagens</A></h3>
          <h3><b>Atividade do dia 10/03:</b><h3>
